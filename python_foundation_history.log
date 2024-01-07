@@ -24,3 +24,29 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-01-07 16:55:03,409 - INFO - START python_foundation =============================================
+2024-01-07 16:55:03,409 - INFO - START python_foundation Start Time = 2024-01-07 16:55:03
+2024-01-07 16:55:03,409 - INFO - python_foundation Step 0 - Initialize the configuration file parser
+2024-01-07 16:55:28,499 - INFO - PERFORMANCE python_foundation The total process duration was:25.09
+2024-01-07 16:55:28,499 - INFO - PERFORMANCE python_foundation Stop Time = 2024-01-07 16:55:28
+2024-01-07 16:55:28,499 - INFO - PERFORMANCE python_foundation Low process duration less than 3 minutes:25.09
+2024-01-07 16:55:28,499 - INFO - PERFORMANCE python_foundation Performance optimization is optional
+2024-01-07 16:55:28,499 - INFO - END python_foundation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-01-07 16:55:52,249 - INFO - START python_foundation =============================================
+2024-01-07 16:55:52,249 - INFO - START python_foundation Start Time = 2024-01-07 16:55:52
+2024-01-07 16:55:52,249 - INFO - python_foundation Step 0 - Initialize the configuration file parser
+2024-01-07 16:55:52,668 - INFO - PERFORMANCE python_foundation The total process duration was:0.42
+2024-01-07 16:55:52,668 - INFO - PERFORMANCE python_foundation Stop Time = 2024-01-07 16:55:52
+2024-01-07 16:55:52,668 - INFO - PERFORMANCE python_foundation Short process duration less than 3 Seconds:0.42
+2024-01-07 16:55:52,668 - INFO - PERFORMANCE python_foundation Performance optimization is not reccomended
+2024-01-07 16:55:52,668 - INFO - END python_foundation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
