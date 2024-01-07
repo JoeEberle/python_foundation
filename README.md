@@ -10,9 +10,10 @@ Python Basic Foundation - Create sample Python Functions
 
 ## Features
 
-- copies or moves files
-- delete files
-- Removes files of a specific type of name
+- has over 10 building blocks
+- read and write files
+- perform math
+- build functions
 
 ## Getting Started
 
