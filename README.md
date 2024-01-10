@@ -1,6 +1,6 @@
 # Python Basic Foundation - Create sample Python Functions  
 
-![solution code Logo](code.png)
+![solution code Logo](python_foundation.png)
 
 ## Description
 
