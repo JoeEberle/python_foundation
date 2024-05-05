@@ -48,5 +48,5 @@ To get started with the **Python Foundation** solution repository, follow these 
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](python_foundation II.png)  <br>![additional_image](python_foundation.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](python_foundation II.png)  <br>![additional_image](python_foundation.png)  <br>
     
