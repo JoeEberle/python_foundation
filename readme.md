@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Python Foundation - Solution for Python Foundation
 Solution for Python Foundation
 
@@ -9,8 +11,6 @@ Welcome to the solution **Python Foundation** - an example for your projects
 Solution for Python Foundation
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
