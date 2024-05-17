@@ -36,7 +36,7 @@ To get started with the **Python Foundation** solution repository, follow these 
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](python_foundation II.png)  <br>![additional_image](python_foundation.png)  <br>
+ ![additional_image](python_foundation II.png)  <br>![additional_image](python_foundation.png)  <br>![additional_image](python_programming.png)  <br>
     
 
 ## Github    
