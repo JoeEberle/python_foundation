@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Python Foundation 
-    ## Solution for Python Foundation
+    
+# Python Foundation 
+
+## Solution for Python Foundation
+
     ![Image image_filename](code.png)
 Welcome to the solution **Python Foundation** - an example for your projects
 
@@ -25,9 +28,9 @@ To get started with the **Python Foundation** solution repository, follow these 
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Python Foundation** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](python_foundation II.png)  <br>![additional_image](python_foundation.png)  <br>![additional_image](python_programming.png)  <br>
