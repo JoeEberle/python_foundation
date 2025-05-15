@@ -51,13 +51,3 @@ To get started with the **Python Foundation** solution repository, follow these 
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](python_foundation II.png)  <br>![additional_image](python_foundation.png)  <br>![additional_image](python_programming.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
