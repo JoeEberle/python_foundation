@@ -4,21 +4,11 @@
 
 ## Solution for Python Foundation
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Python Foundation** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Python Foundation** 
 
 Solution for Python Foundation
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
